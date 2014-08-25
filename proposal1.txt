@@ -1,0 +1,72 @@
+* Contributors
+
+  Prof. Frank Stajano, University of Cambridge, UK
+  Prof. Toshiyuki Masui, Keio Univeristy, Japan
+
+* The Goal
+
+We propose a joint research project on future authentication
+systems, between University of Cambridge and Keio university.
+
+Prof. Stajano has been proposing an ultimate solution to current
+authentication systmes based on user-ids and passwords. His group
+has been proposing the "Pico" architecture, where everybody carries
+his/her special authentication device that can be used for all the
+authentication chores required in his/her everyday life. Using the
+Pico device and Pico-enabled environment, everybody can enjoy all
+the resources on the Web and computers safely without worrying about
+authentication details.
+
+Although the Pico approach is promising, it seems very difficult to
+persuade people to switch from current password-full environments to
+the ideal Pico-based environment. Prof. Stajano and his group are
+well aware of it, and they have been working on finding the best
+solution for the transition. This is a challenging goal, but with
+the joint research project, we believe we can get close to the goal,
+because of the following reasons:
+
+- Prof. Masui has been doing researches on mobile/ubiquitous computing
+  for 20+ years, and he has developed various useful systems used in the
+  real-world. One of his inventions, the predictive Japanese text input
+  system, is used by tens of millions of Japanese mobile-phone users,
+  and his Japanese text input system for iPhone is used by all the
+  iPhone users in Japan. He also has enough knowledge on current RF
+  technologies (NFC, Bluetooth, etc.) available on mobile devices, and
+  such technologies are crucial for the design of Pico. His experiences
+  and knowledges on mobile user interface and RF devices can be of
+  great help to the Pico project.
+
+- Prof. Masui is running very large Web services that can be used as
+  testbeds for authentication systems. One of his services, Gyazo.com,
+  is an image capture/upload service on the Web with 7,000,000+ users.
+  Gyazo.com is now 992nd-largest service on the Web, and it can be used
+  as a testbed for future authentication systems.
+  http://Gyazo.com/
+  http://www.alexa.com/siteinfo/gyazo.com
+  http://gyazo.com/9ccd451c48d0f4ae51dda0b9aa5566ca
+
+* Schedule
+
+Prof. Masui visits University of Cambridge for two weeks in Octover
+or November for the discussion of the project. He and his family
+visits Cambridge from February 2015 to March 2015 (2 months) for the
+joint project.  Prof. Masui has to stay in Japan during Spring
+semester of 2015 (April to June) for his classes, but he can visit
+Cambridge 2 weeks for the project during the period. He will get a
+sabattical leave from Keio University from September 2015, and stay in
+Cambridge for 3 months for the project.
+
+* Budgets
+
+?????
+
+
+
+
+
+
+
+
+
+
+
